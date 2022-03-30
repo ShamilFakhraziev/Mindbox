@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c698f171-2eb7-453a-b07e-32576506aa22": {
+      "ProjectGuid": "c698f171-2eb7-453a-b07e-32576506aa22",
+      "DisplayName": "Mindbox.TestTask",
+      "ColorIndex": 0
+    },
+    "ed380222-0f53-415c-90b8-dff067a02fe8": {
+      "ProjectGuid": "ed380222-0f53-415c-90b8-dff067a02fe8",
+      "DisplayName": "Mindbox.ShapeUnitTest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

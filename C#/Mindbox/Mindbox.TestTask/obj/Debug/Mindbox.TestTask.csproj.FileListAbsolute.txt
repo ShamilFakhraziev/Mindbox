@@ -1,0 +1,11 @@
+C:\Users\Shamil\Documents\CSharpProjects\TesTasksForJob\Mindbox\Mindbox.TestTask\bin\Debug\Mindbox.TestTask.dll
+C:\Users\Shamil\Documents\CSharpProjects\TesTasksForJob\Mindbox\Mindbox.TestTask\bin\Debug\Mindbox.TestTask.pdb
+C:\Users\Shamil\Documents\CSharpProjects\TesTasksForJob\Mindbox\Mindbox.TestTask\obj\Debug\Mindbox.TestTask.csproj.AssemblyReference.cache
+C:\Users\Shamil\Documents\CSharpProjects\TesTasksForJob\Mindbox\Mindbox.TestTask\obj\Debug\Mindbox.TestTask.csproj.CoreCompileInputs.cache
+C:\Users\Shamil\Documents\CSharpProjects\TesTasksForJob\Mindbox\Mindbox.TestTask\obj\Debug\Mindbox.TestTask.dll
+C:\Users\Shamil\Documents\CSharpProjects\TesTasksForJob\Mindbox\Mindbox.TestTask\obj\Debug\Mindbox.TestTask.pdb
+C:\Users\Shamil\Documents\CSharpProjects\TesTasksForJob\C#\Mindbox\Mindbox.TestTask\bin\Debug\Mindbox.TestTask.dll
+C:\Users\Shamil\Documents\CSharpProjects\TesTasksForJob\C#\Mindbox\Mindbox.TestTask\bin\Debug\Mindbox.TestTask.pdb
+C:\Users\Shamil\Documents\CSharpProjects\TesTasksForJob\C#\Mindbox\Mindbox.TestTask\obj\Debug\Mindbox.TestTask.csproj.CoreCompileInputs.cache
+C:\Users\Shamil\Documents\CSharpProjects\TesTasksForJob\C#\Mindbox\Mindbox.TestTask\obj\Debug\Mindbox.TestTask.dll
+C:\Users\Shamil\Documents\CSharpProjects\TesTasksForJob\C#\Mindbox\Mindbox.TestTask\obj\Debug\Mindbox.TestTask.pdb
