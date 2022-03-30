@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindbox.TestTask", "Mindbox.TestTask\Mindbox.TestTask.csproj", "{C698F171-2EB7-453A-B07E-32576506AA22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindbox.ShapeUnitTest", "UnitTestProject1\Mindbox.ShapeUnitTest.csproj", "{ED380222-0F53-415C-90B8-DFF067A02FE8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindbox.ShapeUnitTest", "Mindbox.ShapeUnitTest\Mindbox.ShapeUnitTest.csproj", "{ED380222-0F53-415C-90B8-DFF067A02FE8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
